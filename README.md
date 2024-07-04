@@ -43,3 +43,8 @@ I created this tool to consolidate novels where each chapter is stored as an ind
 1. Clone this repository or download the source code
 2. Ensure you have Python installed on your system
 3. Run the script using Python:
+
+
+## Note
+
+This program was created for personal use to consolidate Markdown-formatted novel chapters. Feel free to modify and adapt it to suit your specific needs.
