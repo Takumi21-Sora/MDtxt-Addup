@@ -40,9 +40,20 @@ I created this tool to consolidate novels where each chapter is stored as an ind
 
 ## Installation
 
-1. Clone this repository or download the source code
-2. Ensure you have Python installed on your system
-3. Run the script using Python:
+You have two options to install and use this program:
+
+1. Download and run the executable:
+   - Go to the Releases section of this repository
+   - Download the latest release package
+   - Extract the package and run the executable file
+
+2. Run from source:
+   - Clone this repository or download the source code
+   - Ensure you have Python 3.x installed on your system
+   - Run the script using Python:
+     ```
+     python app.py
+     ```
 
 
 ## Note
